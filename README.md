@@ -45,7 +45,7 @@
  <img src="/images/pull.jpeg">
  <li>Leaving all fields to their default values, click on <b>Create Pull Request</b>.</li>
  <img src="/images/final.jpeg">
- <li>Wait for a few moments, then you are all done</li>
+ <li>Wait for a few moments,then you are all done</li>
 </ul>
 </details>
 
