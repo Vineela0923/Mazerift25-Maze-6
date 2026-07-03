@@ -5,7 +5,7 @@
 <br>
 <ul>
    <li>Open the <a href="https://github.com/cbitosc/Mazerift25-Maze-6/">current repo</a> in a new tab.</li>
-   <li>Perform all operations in the newly opened tab,and follow the current tab for instructions.</li>
+   <li>Perform all operations in the newly opened tab, and follow the current tab for instructions.</li>
 </ul>
 </details>
 
@@ -43,9 +43,9 @@
 <ul>
  <li>Finally, click on the <b>Contribute</b> button and choose <b>Open Pull Request</b>.</li>
  <img src="/images/pull.jpeg">
- <li>Leaving all fields to their default values,click on <b>Create Pull Request</b>.</li>
+ <li>Leaving all fields to their default values, click on <b>Create Pull Request</b>.</li>
  <img src="/images/final.jpeg">
- <li>Wait for a few moments,then you are all done</li>
+ <li>Wait for a few moments, then you are all done</li>
 </ul>
 </details>
 
